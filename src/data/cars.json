@@ -1,0 +1,69 @@
+   [
+        {
+            "id": 1,
+            "name": "Toyota Camry",
+            "price": 25000,
+            "year": 2022,
+            "image": "https://img2.carmax.com/assets/24852896/hero.jpg?width=800&height=450",
+            "contact":{
+                "dealer": "John Doe",
+                "phone": "123-456-7890"
+            }
+        },
+        {
+            "id": 2,
+            "name": "Honda Civic",
+            "price": 22000,
+            "year": 2022,
+            "image": "https://img2.carmax.com/assets/25299949/hero.jpg?width=800&height=450",
+            "contact":{
+                "dealer": "James Doe",
+                "phone": "123-456-7890"
+            }
+        },
+        {
+            "id": 3,
+            "name": "Ford Mustang",
+            "price": 35000,
+            "year": 2022,
+            "image": "https://img2.carmax.com/assets/24796378/hero.jpg?width=800&height=450",
+            "contact":{
+                "dealer": "Jack Doe",
+                "phone": "123-456-7890"
+            }
+        },
+        {
+            "id": 4,
+            "name": "Tesla Model 3",
+            "price": 37000,
+            "year": 2022,
+            "image": "https://img2.carmax.com/assets/24880689/hero.jpg?width=800&height=450",
+            "contact":{
+                "dealer": "Joe Doe",
+                "phone": "123-456-7890"
+            }
+        },
+        {
+            "id": 5,
+            "name": "Riviian R1T",
+            "price": 85000,
+            "year": 2022,
+            "image": "https://platform.cstatic-images.com/xlarge/in/v2/aad986ea-0a32-48b5-8fbf-cf28095c68db/f787f67e-9238-4043-a767-2b7d22e11354/ZcKSOrezMtqS1Fg_BfHK_mAWcvQ.jpg",
+            "contact":{
+                "dealer": "Jacque Doe",
+                "phone": "123-456-7890"
+            }
+        },
+        {
+            "id": 6,
+            "name": "Hyundai Sonata",
+            "price": 24000,
+            "year": 2022,
+            "image": "https://img2.carmax.com/assets/25226045/hero.jpg?width=800&height=450",
+            "contact":{
+                "dealer": "Jacque Doe",
+                "phone": "123-456-7890"
+            }
+        }
+    ]
+
