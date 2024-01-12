@@ -45,10 +45,10 @@
         },
         {
             "id": 5,
-            "name": "Riviian R1T",
+            "name": "Nissan Altima",
             "price": 85000,
             "year": 2022,
-            "image": "https://platform.cstatic-images.com/xlarge/in/v2/aad986ea-0a32-48b5-8fbf-cf28095c68db/f787f67e-9238-4043-a767-2b7d22e11354/ZcKSOrezMtqS1Fg_BfHK_mAWcvQ.jpg",
+            "image": "https://img2.carmax.com/assets/24979024/hero.jpg?width=800&height=450",
             "contact":{
                 "dealer": "Jacque Doe",
                 "phone": "123-456-7890"
