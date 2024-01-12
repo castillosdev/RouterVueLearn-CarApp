@@ -34,6 +34,10 @@ routes: [
         name: "NotFound",
         component: NotFoundView
     },
+    {
+        path: "/home",
+        redirect: "/",
+    }
 ]
 });
 
